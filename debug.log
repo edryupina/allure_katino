@@ -1,0 +1,17 @@
+[0421/235054.816:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235054.817:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235054.817:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235054.817:ERROR:exception_snapshot_win.cc(88)] thread ID 9772 not found in process
+[0421/235054.817:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0421/235314.292:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0421/235314.293:ERROR:exception_snapshot_win.cc(88)] thread ID 5680 not found in process
+[0421/235314.293:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
