@@ -13,9 +13,9 @@ public class ChoosePage {
     @FindBy(xpath = "//span[contains(text(),'Оформить')]")
     public WebElement Button;
 
-    public ChoosePage(WebDriver driver) {
-        PageFactory.initElements(driver, this);
-        Wait<WebDriver> wait = new WebDriverWait(driver, 10, 1000);
+    public ChoosePage(WebDriver driver){
+        PageFactory.initElements(driver,this);
+        Wait<WebDriver> wait = new WebDriverWait(driver,10,1000);
         wait.until(ExpectedConditions.visibilityOf(summa));
         wait.until(ExpectedConditions.visibilityOf(Button));
     }

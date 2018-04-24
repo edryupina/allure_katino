@@ -10,7 +10,7 @@ import steps.ParametrSteps;
 import java.util.HashMap;
 
 public class AllureTest extends BaseSteps {
-    MainSteps mainSteps = new MainSteps();
+   //убрала MainSteps mainSteps = new MainSteps();
     HashMap<String, String> testData = new HashMap<>();
     @Test
     @Title("Оформление страхования")
@@ -19,7 +19,7 @@ public class AllureTest extends BaseSteps {
         StrahSteps strahSteps =new StrahSteps();
         SummaSteps summaSteps = new SummaSteps();
         ParametrSteps parametrSteps = new ParametrSteps();
-        HashMap<String, String> testData = new HashMap<>();
+        //убрала   HashMap<String, String> testData = new HashMap<>();
 
         testData.put("Фамилия застрахованного", "Dryupina");
         testData.put("Имя застрахованного", "Ekaterina");
